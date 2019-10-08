@@ -9,7 +9,7 @@
 - ![avatar](/img/b.png)
 - ![avatar](/img/c.png)
 - 输入 i ，将server.json的server字段的值:"0,0,0,0"改为 "::"，并修改你想要的端口和密码（不要使用默认密码），按 Esc 退出编辑模式，输入 :wq ，保存退出。
-- 最后输入  ssserver -c /etc/shadowsocks/server.json -d start &  启动shadowsocks。
+- 最后输入  ssserver -c /etc/shadowsocks/server.json -d start  启动shadowsocks。
 ***
 
 ## 查看你的ipv6地址
